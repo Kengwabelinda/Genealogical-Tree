@@ -1,1 +1,1 @@
-Object oriented programming with Java
+Object oriented Java
